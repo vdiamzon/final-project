@@ -1,0 +1,122 @@
+html body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: small;
+    color: #464646;
+}
+
+.navbar-brand {
+    border: solid white 1px;
+    border-radius: 50%;
+    padding: 0.5rem;
+}
+
+section#top {
+    background-color: #dde6d5;
+}
+
+#header {
+    margin-top: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.card {
+    margin-top: 1rem;
+}
+
+.card-title {
+    margin-top: 1.75rem;
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+.card-text h5 {
+    font-size: small;
+    font-weight: 500;
+    margin-bottom: 0;
+    color: #667b68;
+}
+
+img#me {
+    max-width: 250px;
+    border-radius: 50%;
+    margin: 0.75rem 0 0.75rem 1rem;
+}
+
+.card-body {
+    margin-left: 4.25rem;
+}
+
+.card .card-footer {
+    background: #a3b899;
+    border-top: #a3b899;
+    padding-left: 30%;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+.fa {
+    padding: 10px;
+    margin-right: 1rem;
+    font-size: 20px;
+    width: 45px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    border: solid white 1px;
+  }
+
+  a.fa:link, a.fa:visited, a.fa:hover, a.fa:active {
+    color: #ffffff;
+  }
+ 
+
+  section#bottom {
+      text-align: center;
+  }
+  
+  section#bottom h3 {
+      margin-top: 1rem;
+      text-transform: uppercase;
+  }
+
+  body h4 {
+      font-size: medium;
+      text-transform: uppercase;
+      color: #7e7e7e;
+  }
+
+  body h5 {
+      font-size: small;
+      color: #667b68;
+  }
+
+  .date {
+      color: #667b68;
+      font-weight: 500;
+  }
+
+  .quote-container {
+    background-color: #dde6d5; 
+  }
+
+  #generate-btn {
+    color: white;
+    background: #667b68;
+    border-color: #667b68;
+  }
+
+  h3#quote-header {
+      text-transform: uppercase;
+  }
+  
+  p#quote {
+  font-size: x-large; 
+  }
+
+  .author {
+   color: #667b68;
+  }
